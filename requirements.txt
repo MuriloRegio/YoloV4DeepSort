@@ -1,0 +1,6 @@
+tensorflow==2
+numpy
+pandas
+python-opencv
+scikit-learn
+Pillow

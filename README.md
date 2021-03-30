@@ -20,7 +20,7 @@ This repository uses a TensorFlow 2.x compatible version of the one proposed by 
 * Weight Files
 	* Download the YOLOv4 and DeepSORT weights
 
-		[mars-small128.pb](https://drive.google.com/drive/folders/1m2ebLHB2JThZC8vWGDYEKGsevLssSkjo)
+		[mars-small128.pb](https://drive.google.com/drive/folders/1m2ebLHB2JThZC8vWGDYEKGsevLssSkjo)<br>
 		[yolov4.weights](https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT)
 
 * Environment Setup
