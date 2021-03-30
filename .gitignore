@@ -1,0 +1,26 @@
+## Python Binaries
+*.pyc
+
+## Weights
+*.weights
+*.pb
+
+## Darknet Binaries
+darknet
+*.so
+
+## Results
+*.csv
+*.tsv
+
+## Dataset
+RWF-2000/*
+*.avi
+
+## OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
